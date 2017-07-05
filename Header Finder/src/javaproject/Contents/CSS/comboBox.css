@@ -1,0 +1,13 @@
+.combo-box{
+    -fx-text-fill: black;
+    -fx-font: 23px "Arial Rounded MT Bold";
+}
+
+.combo-box .cell{
+    -fx-text-fill: blue;
+    -fx-font: 17px "Arial";
+}
+
+.combo-box-base > *.arrow-button {
+    -fx-padding: 0 0 0 -15;
+}

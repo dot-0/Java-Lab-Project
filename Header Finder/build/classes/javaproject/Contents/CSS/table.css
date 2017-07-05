@@ -1,0 +1,18 @@
+.table-cell {
+    -fx-text-fill: black;
+    -fx-font: 16px "Trebuchet MS";
+}
+
+.table-view .column-header-background{
+    -fx-background-color: linear-gradient(#131313 0%, #424141 100%);
+}
+
+.table-view .column-header-background .label{
+    -fx-background-color: transparent;
+    -fx-text-fill: white;
+	-fx-font: 18px "Georgia";
+}
+
+.table-view .column-header {
+    -fx-background-color: transparent;
+}

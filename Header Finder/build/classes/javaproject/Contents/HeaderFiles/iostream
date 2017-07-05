@@ -1,0 +1,4 @@
+_CRTIMP void cin (void);
+_CRTIMP void cout (void);
+_CRTIMP void cerr (void);
+_CRTIMP void clog (void);
